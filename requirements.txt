@@ -1,0 +1,6 @@
+gym
+matplotlib
+pybullet
+ffmpeg-python
+opencv-python
+python-Levenshtein==0.12.0
