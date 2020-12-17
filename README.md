@@ -4,6 +4,8 @@ This is the official code release to our AAAI21 work titled "Augmenting Policy L
 
 Authors: Zelin Zhao (me), Chuang Gan, Jiajun Wu, Xiaoxiao Guo, Joshua Tenenbaum. 
 
+Work was done during Zelin’s internship at MIT.
+
 Paper link: to appear soon.
 
 ## Sec1: Installation
