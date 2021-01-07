@@ -1,12 +1,12 @@
 ## Sec0: Introduction
 
-This is the official code release to our AAAI21 work titled "Augmenting Policy Learning with Routines Discovered from a Single Demonstration".
+This is the official code release to our AAAI21 work titled "[Augmenting Policy Learning with Routines Discovered from a Single Demonstration](https://arxiv.org/abs/2012.12469)".
 
 Authors: Zelin Zhao (me), Chuang Gan, Jiajun Wu, Xiaoxiao Guo, Joshua Tenenbaum. 
 
 Work was done during Zelin’s internship at MIT.
 
-Paper link: to appear soon.
+Paper link: https://arxiv.org/abs/2012.12469
 
 ## Sec1: Installation
 
